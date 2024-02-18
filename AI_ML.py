@@ -1,4 +1,5 @@
 import numpy as np
 
-X = np.ones([2, 3])
-print(X)
+x = np.ones([2, 3])
+y = 2 * x + 3
+print(y)
